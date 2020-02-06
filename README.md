@@ -1,2 +1,0 @@
-# trtajans-wikipedia
-trtajans wikipedia
